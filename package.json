@@ -1,7 +1,7 @@
 {
-  "name": "Mixhon",
+  "name": "Gim",
   "version": "1.0.0",
-  "description": "Mixhon El Mejor Bot",
+  "description": "Gim El Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/Mixhon",
+  "homepage": "https://github.com/TeamObvious/Gim",
   "author": {
     "name": "TeamObvious"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/Mixhon.git"
+    "url": "git+https://github.com/TeamObvious/Gim.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/Mixhon/issues"
+    "url": "https://github.com/TeamObvious/Gim/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
