@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51912558658', '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌', true],
+  ['51912558658', '✨ 𝗚𝗶𝗺 ✨', true],
   ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', false],
   ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', true],
   ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', true],
@@ -20,11 +20,11 @@ global.suittag = ['51906529530'];
 global.prems = ['51906528530'];
 
 global.packname = 'Hola Creaste Un Sticker Con :';
-global.author = '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌';
-global.wm = '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌';
-global.titulowm = '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌';
-global.titulowm2 = `📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌`
-global.igfg = '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌';
+global.author = '✨ 𝗚𝗶𝗺 ✨';
+global.wm = '✨ 𝗚𝗶𝗺 ✨';
+global.titulowm = '✨ 𝗚𝗶𝗺 ✨';
+global.titulowm2 = `✨ 𝗚𝗶𝗺 ✨`
+global.igfg = '✨ 𝗚𝗶𝗺 ✨';
 global.wait = '*[ 📌 ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -45,9 +45,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌`;
-global.gt = '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌';
-global.mysticbot = '📌 𝗠𝗜𝗫𝗛𝗢𝗡 📌';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ ✨ 𝗚𝗶𝗺 ✨`;
+global.gt = '✨ 𝗚𝗶𝗺 ✨';
+global.mysticbot = '✨ 𝗚𝗶𝗺 ✨';
 global.md = 'https://github.com/Bots/RobarNo-MD';
 global.mysticbot = 'https://github.com/Bots/RobarNo-MD';
 global.waitt = '*[ 📌 ] Cargando...*';
